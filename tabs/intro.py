@@ -9,8 +9,7 @@ layout = [dcc.Markdown("""
 
 How much money would your movie make?
 
-Pick a budget, genre(s), and runtime.
-Then decide when to release.
+See how well your foreign documentary would perform in September!
 """), 
 
 html.Img(src='/assets/jeremy-yap-J39X2xX_8CQ-unsplash.jpg', style={'width':'100%'})]
